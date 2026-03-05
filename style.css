@@ -107,6 +107,7 @@ div#PFP img{
     transition: all 0.4s ease;
     font-size: 0em;
     margin: 0px;
+    font-family: "my";
     
 }
 #PFP h2#clique{
