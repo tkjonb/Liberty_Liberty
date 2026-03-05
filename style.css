@@ -12,7 +12,7 @@
 * {
   user-select: none;
 }
-img, a, button {
+img, a{
   -webkit-tap-highlight-color: transparent;
 }
 /*BODY -----------------------------------------------------*/
