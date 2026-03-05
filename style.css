@@ -56,6 +56,7 @@ h3{
 p{
     font-family: var(--fonte1);
     font-size: larger;
+    text-align: center;
 }
 /*ICONS -----------------------------------------------------*/
 .icon1{
@@ -210,6 +211,10 @@ div#PFP:hover img{
 }
 
 #REDES:checked ~ .conteudo{
+    max-height: 200px;
+    padding: 12px;
+}
+#PROJETOS:checked ~ .conteudo{
     max-height: 200px;
     padding: 12px;
 }
