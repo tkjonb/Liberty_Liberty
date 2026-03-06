@@ -66,15 +66,10 @@ p{
     text-align: center;
 }
 /*ICONS -----------------------------------------------------*/
-.icon1{
-    width: 45px;
+.icon{
+    max-height: 50px;
 }
-.icon2{
-    width: 80px;
-}
-.icon3{
-    width: 40px;
-}
+
 p.icons{
     text-align: center;
     padding: 0px;
@@ -132,10 +127,27 @@ section{
 /*ARTICLE -----------------------------------------------------*/
 article.conteudo{
     margin: 10px 0px 0px 0px;
+    
 }
 article:hover{
     background-color: rgba(255, 255, 255, 0.16);
 }
+/*
+.discord{
+    background: #5D63F7;
+    border-radius: 20px 20px 0px 0px;
+}
+.instagram{
+    background-image: linear-gradient(to right, #833ab4,#fd1d1d,#fcb045);
+}
+.tiktok{
+    background: black;
+}
+.reddit{
+    background: #FF4501;
+    border-radius: 0px 0px 20px 20px;
+}
+*/
 /*FOOTER-----------------------------------------------------*/
 footer{
     max-width: 800px;
